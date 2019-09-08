@@ -42,5 +42,4 @@ public:
 		if (method != nullptr)
 			method->Sort(v);
 	}
-
 };
